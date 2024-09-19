@@ -20,14 +20,14 @@ Working on:
 
 ---
 <p>
-   <img height="30" src="https://raw.githubusercontent.com/Aimtask/Aimtask/main/images/TailwindCSS.png">
-   <img height="35" src="https://raw.githubusercontent.com/Aimtask/Aimtask/main/images/GOlang.png">
-   <img height="30" src="https://raw.githubusercontent.com/Aimtask/Aimtask/main/images/JS.png">
+   <img height="30" src="https://raw.githubusercontent.com/Kyomazi/Kyomazi/main/images/TailwindCSS.png">
+   <img height="35" src="https://raw.githubusercontent.com/Kyomazi/Kyomazi/main/images/GOlang.png">
+   <img height="30" src="https://raw.githubusercontent.com/Kyomazi/Kyomazi/main/images/JS.png">
 </p>
 
 ---
 
-![arcw4ve's Stats](https://github-readme-stats.vercel.app/api?username=arcw1nd&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcw1nd&layout=donut&theme=ambient_gradient&hide_border=true&langs_count=6)
+![Chris's Stats](https://github-readme-stats.vercel.app/api?username=Kyomazi&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyomazi&layout=donut&theme=ambient_gradient&hide_border=true&langs_count=6)
 
 
 
