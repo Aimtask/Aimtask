@@ -20,9 +20,9 @@ Working on:
 
 ---
 <p>
-   <img height="30" src="https://raw.githubusercontent.com/Arcw1nd/Arcw1nd/main/images/TailwindCSS.png">
-   <img height="35" src="https://raw.githubusercontent.com/Arcw1nd/Arcw1nd/main/images/GOlang.png">
-   <img height="30" src="https://raw.githubusercontent.com/Arcw1nd/Arcw1nd/main/images/JS.png">
+   <img height="30" src="https://raw.githubusercontent.com/Aimtask/Aimtask/main/images/TailwindCSS.png">
+   <img height="35" src="https://raw.githubusercontent.com/Aimtask/Aimtask/main/images/GOlang.png">
+   <img height="30" src="https://raw.githubusercontent.com/Aimtask/Aimtask/main/images/JS.png">
 </p>
 
 ---
