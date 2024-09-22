@@ -20,14 +20,14 @@ Working on:
 
 ---
 <p>
-   <img height="30" src="https://raw.githubusercontent.com/Kyoruz/Kyoruz/main/images/TailwindCSS.png">
-   <img height="35" src="https://raw.githubusercontent.com/Kyoruz/Kyoruz/main/images/GOlang.png">
-   <img height="30" src="https://raw.githubusercontent.com/Kyoruz/Kyoruz/main/images/JS.png">
+   <img height="30" src="https://raw.githubusercontent.com/Kyorumi/Kyorumi/main/images/TailwindCSS.png">
+   <img height="35" src="https://raw.githubusercontent.com/Kyorumi/Kyorumi/main/images/GOlang.png">
+   <img height="30" src="https://raw.githubusercontent.com/Kyorumi/Kyorumi/main/images/JS.png">
 </p>
 
 ---
 
-![Chris's Stats](https://github-readme-stats.vercel.app/api?username=Kyoruz&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoruz&layout=donut&theme=ambient_gradient&hide_border=true&langs_count=6)
+![Chris's Stats](https://github-readme-stats.vercel.app/api?username=Kyorumi&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=issues)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyorumi&layout=donut&theme=ambient_gradient&hide_border=true&langs_count=6)
 
 
 
